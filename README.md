@@ -1,4 +1,10 @@
-### Hi there 👋
+### Keep calm and cherry on...tech!🍒
+
+Hi there! We are a tech squad. We dream, scheme, and support each other in our tech careers. We create projects together in order to learn out loud and show off our skills. 
+
+#### Find us around the web
+- 🌐[cherryOn.tech](https://cherryon.tech)
+- 🦜[Twitter](https://twitter.com/cherryontech)
 
 <!--
 **cherryontech/cherryontech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

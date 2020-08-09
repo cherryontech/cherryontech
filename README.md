@@ -1,6 +1,13 @@
 # Keep calm and cherry on...tech!🍒
 
-Hi there! We are a tech squad. We dream, scheme, and support each other in our tech careers. We create projects together in order to learn out loud and show off our skills. 
+Hi there! We are a tech squad. We dream, scheme, and support each other in our tech careers. We create projects together in order to learn out loud and show off our skills.
+
+### Who we are...
+- 🍒 [Adryenne](https://twitter.com/Dreamy26_) - Backend dev
+- 🥧 [Allie](https://twitter.com/allie_quintano) - Project management
+- 🍨 [Julieth](https://twitter.com/julietafb) - Designer
+- 🍭 [Novella](https://twitter.com/novelladev) - Frontend dev
+- 🍬 Yoonie - Social media
 
 #### Find us around the web...
 - 🌐[cherryOn.tech](https://cherryon.tech)

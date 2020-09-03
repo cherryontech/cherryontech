@@ -6,6 +6,7 @@ Hi there! We are a tech squad. We dream, scheme, and support each other in our t
 - 🍒 [Adryenne](https://twitter.com/Dreamy26_) - Backend dev
 - 🥧 [Allie](https://twitter.com/allie_quintano) - Project management
 - 🍨 [Julieth](https://twitter.com/julietafb) - Designer
+- 🍰 Nia - QA and [A11y](https://developer.mozilla.org/en-US/docs/Web/Accessibility) tester
 - 🍭 [Novella](https://twitter.com/novelladev) - Frontend dev
 - 🍬 Yoonie - Social media
 
